@@ -4,6 +4,7 @@
 * [HTML中显示MarkDown](http://www.tuicool.com/articles/3uIjei6)
 
 ## Android控件
+* [泡在网上的日子](http://www.jcodecraeer.com)
 * [fresco使用说明](http://fresco-cn.org/docs/index.html#_)
 * [GameSurfaceView，对SurfaceView的简单使用](http://codingnow.cn/android/603.html)
 
