@@ -17,3 +17,6 @@
 
 ## Web前端
 * [runjs,js效果在线编辑查看](http://runjs.cn)
+
+## Android提升
+* [HandlerThread使用](http://blog.csdn.net/lmj623565791/article/details/47079737/)
