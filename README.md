@@ -21,3 +21,4 @@
 ## Android提升
 * [HandlerThread使用](http://blog.csdn.net/lmj623565791/article/details/47079737/)
 * [动态加载](http://blog.csdn.net/yuanzeyao/article/details/38565345)
+* [性能与内存优化](http://www.2cto.com/kf/201412/360055.html)
