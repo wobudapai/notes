@@ -17,6 +17,8 @@
 
 ## Web前端
 * [runjs,js效果在线编辑查看](http://runjs.cn)
+* [HTML5网站模板](https://freehtml5.co)
+* [图片素材](http://plmd.me)
 
 ## Android提升
 * [HandlerThread使用](http://blog.csdn.net/lmj623565791/article/details/47079737/)
