@@ -7,6 +7,7 @@
 * [泡在网上的日子](http://www.jcodecraeer.com)
 * [fresco使用说明](http://fresco-cn.org/docs/index.html#_)
 * [GameSurfaceView，对SurfaceView的简单使用](http://codingnow.cn/android/603.html)
+* [T- MVP实现](http://www.jcodecraeer.com/a/opensource/2016/0513/4259.html)
 
 ## 博客模板
 * http://www.yangqq.com/download/div/2014-01-22/647.html
