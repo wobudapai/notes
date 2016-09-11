@@ -38,3 +38,4 @@
 
 ##工具网站
 *[Html5网页制作（maka）](http://maka.im/)
+*[简历、PPT等模板下载](http://www.500d.me/template/)
