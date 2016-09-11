@@ -37,5 +37,5 @@
 * [十个程序员必备网站](http://mt.sohu.com/20160422/n445541170.shtml)
 
 ##工具网站
-*[Html5网页制作（maka）](http://maka.im/)
-*[简历、PPT等模板下载](http://www.500d.me/template/)
+* [Html5网页制作（maka）](http://maka.im/)
+* [简历、PPT等模板下载](http://www.500d.me/template/)
