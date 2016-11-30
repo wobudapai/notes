@@ -20,6 +20,7 @@
 * [runjs,js效果在线编辑查看](http://runjs.cn)
 * [HTML5网站模板](https://freehtml5.co)
 * [图片素材](http://plmd.me)
+* [webpack学习](https://segmentfault.com/a/1190000006952432)
 
 ## Android提升
 * [HandlerThread使用](http://blog.csdn.net/lmj623565791/article/details/47079737/)
